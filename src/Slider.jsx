@@ -52,6 +52,8 @@ const Slider = () => {
                 </SwiperSlide>
                 
             </Swiper>
+
+            {/* This comment for test */}
         </div>
     );
 };
